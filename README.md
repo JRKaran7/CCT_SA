@@ -18,14 +18,16 @@ This project will provide a solution in the form of a prototype that fulfils eve
 In the rapidly growing community of digital nomads, several challenges hinder productivity, learning, and overall well-being, leading to reduced effectiveness and poor quality of work. These challenges include: </br> <br>
 1. Language Learning Inefficiency: According to a study by the Education Data Initiative, 70% of digital nomads find it difficult to learn a new language despite the necessity to communicate effectively while traveling. Only 40% of these individuals engage in language learning consistently, with a significant portion citing lack of structured time, motivation, and suitable resources. </br> <br>
 2. Inefficient Co-working Sessions: Research by WeWork suggests that 65% of digital nomads report inefficient co-working experiences. These include poor collaboration, distractions, and lack of proper resources. The inefficiencies in co-working spaces lead to a decrease in overall productivity, as 55% of nomads express frustration over inconsistent or low-quality work environments. </br> <br>
+3. Unreliable Internet Connections: A global survey by Nomad List reveals that 60% of digital nomads struggle with bad internet access, with unreliable Wi-Fi being a major barrier. This can lead to disrupted work sessions, delayed communication, and hindered collaboration, causing significant stress and work delays. Approximately 45% report that internet connectivity issues directly impact their ability to meet deadlines. </br> <br>
+4. Poor Password Management: As digital nomads frequently use multiple platforms and services, password management becomes a major concern. A LastPass report indicates that 59% of remote workers use the same password across multiple sites, and 50% struggle to securely store and manage passwords. This vulnerability increases the risk of data breaches and cyberattacks, which threaten the security of sensitive work and personal information. </br> <br>
+5. Lack of Focus and Unproductive Time: A study by RescueTime shows that 80% of digital nomads face difficulty staying focused, with distractions from social media, poor time management, or unstructured routines contributing to a significant amount of wasted time. On average, they report up to 3 hours of non-productive time each day due to these factors, leading to lower productivity and burnout. </br> <br>
 
+Looking at the statistics, I feel that these constraints must be taken into deep consideration and addressed so that the digital nomads can have a smooth work experience wherever they travel.
 
-About 30–40% of adults experience a fall-related injury in their homes. Not only this, about 35–40% of fainting episodes lead to injuries that require immediate medical attention. (Syncope (fainting) 2020) </br>
-Looking at the statistics, I feel that this issue must be taken into deep consideration and addressed. Also, while addressing the issue, conditions like accuracy and quicker messaging must be taken into consideration along with the main goal of saving the individual.
-
-### Goal and Objective
-• To develop a system that can detect a person standing, sitting, and fainting. Along with this, the system should alert the closest family member if the model detects the target user facing a fainting episode. <br>
-• To develop a heart rate detector using photoplethysmography that will share the last recorded heart rate of the person after fainting.
+### Goal
+• To empower digital nomads to work more efficiently and securely while maintaining focus and continuous personal development.
+### Objective
+• To develop an application that provides digital nomads password management, efficient coworking sessions, information about the nearest internet cafes, and many more features that enhance their travel and work experience.
 
 ### Existing projects
 1. Wait Kit Wong: https://www.researchgate.net/publication/228792571_Home_Alone_Faint_Detection_Surveillance_System_Using_Thermal_Camera <br>
