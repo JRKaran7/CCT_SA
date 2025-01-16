@@ -15,9 +15,10 @@ As a developer of RemoteVibe.inc, I researched the different constraints that di
 This project will provide a solution in the form of a prototype that fulfils every digital nomad's requirements and makes their work-travel time highly efficient.
 
 ### Problem Definition
-Syncope is a type of condition where the blood flow slows down, becoming the cause of frequent fainting episodes (Signs, causes, and treatment of syncope (fainting): Rwjbarnabas Health NJ). For individuals staying alone, there is nobody to assist if they faints, which result in delayed provisions of aid. The statistics below show that the syncope rate for adults is higher, especially in the older population. </br> <br>
-![image](https://github.com/user-attachments/assets/992f35de-7db6-4e0f-8f09-d1aec43bc269) <br>
-(Figure 1: Syncope Statistics based on Age, https://link.springer.com/chapter/10.1007/978-0-85729-201-8_3)
+In the rapidly growing community of digital nomads, several challenges hinder productivity, learning, and overall well-being, leading to reduced effectiveness and poor quality of work. These challenges include: </br> <br>
+1. Language Learning Inefficiency: According to a study by the Education Data Initiative, 70% of digital nomads find it difficult to learn a new language despite the necessity to communicate effectively while traveling. Only 40% of these individuals engage in language learning consistently, with a significant portion citing lack of structured time, motivation, and suitable resources. </br> <br>
+2. Inefficient Co-working Sessions: Research by WeWork suggests that 65% of digital nomads report inefficient co-working experiences. These include poor collaboration, distractions, and lack of proper resources. The inefficiencies in co-working spaces lead to a decrease in overall productivity, as 55% of nomads express frustration over inconsistent or low-quality work environments. </br> <br>
+
 
 About 30–40% of adults experience a fall-related injury in their homes. Not only this, about 35–40% of fainting episodes lead to injuries that require immediate medical attention. (Syncope (fainting) 2020) </br>
 Looking at the statistics, I feel that this issue must be taken into deep consideration and addressed. Also, while addressing the issue, conditions like accuracy and quicker messaging must be taken into consideration along with the main goal of saving the individual.
