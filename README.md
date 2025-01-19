@@ -25,9 +25,9 @@ In the rapidly growing community of digital nomads, several challenges hinder pr
 Looking at the statistics, I feel that these constraints must be taken into deep consideration and addressed so that the digital nomads can have a smooth work experience wherever they travel.
 
 ### Goal
-• To empower digital nomads to work more efficiently and securely while maintaining focus and continuous personal development.
+To empower digital nomads to work more efficiently and securely while maintaining focus and continuous personal development.
 ### Objective
-• To develop an application that provides digital nomads password management, efficient coworking sessions, information about the nearest internet cafes, and many more features that enhance their travel and work experience.
+To develop an application that provides digital nomads password management, efficient coworking sessions, information about the nearest internet cafes, and many more features that enhance their travel and work experience.
 
 ### Existing projects
 1. AirBNB (Travel App): [https://www.airbnb.co.in/](https://www.airbnb.co.in/) <br>
@@ -38,10 +38,21 @@ Looking at the statistics, I feel that these constraints must be taken into deep
 ### Approach
 Here is how the following steps guided me to the formation of (App name): - </br>
 #### 1. Brainstorming:
+• Gamified Language Learning Integration: Consider adding gamification elements to the language learning feature, such as daily challenges, streaks, and rewards. This could improve motivation and engagement for users who struggle with consistency in learning a new language. <br>
+• Offline Functionality for Key Features: Enable offline access for critical app features like language practice modules or productivity tools. This would help digital nomads stay productive even in areas with unreliable internet connections. <br>
+• Community and Collaboration Hub: Integrate a community feature where digital nomads can connect with each other, share tips for co-working spaces, and collaborate on projects. This could improve co-working experiences and foster a sense of belonging. <br>
+• Cafe Finder for Productivity: Introduce a Cafe Finder feature that suggests cafes nearby with ratings for Wi-Fi quality, noise levels, seating comfort, and availability of power outlets. This can help digital nomads find the perfect spot to work efficiently while enjoying a good ambiance. <br>
+Here is a SCAMPER board to understand how the app idea is distributed based on 7 different categories shown in the picture: - <br>
+![Visual Arts SCAMPER Year 9 Year 10 in Green and Pink Modern Style](https://github.com/user-attachments/assets/1259dc72-d192-460e-8512-ad8bffbcd1e8) <br> <br>
+(Figure 1: - SCAMPER Board to understand the app's vision in 7 categories)
+
 #### 2. Developing the Mindset:
 Keeping the foot in the user’s shoe creates a mindset that digital nomads follow. As the project leader for this problem, I must think and find innovative solutions for them so that they find the idea creative and usable on a daily basis. Here is a table that includes the constraint, designs and features that can overcome them, and a creative perspective on it: - <br> <br>
 ![image](https://github.com/user-attachments/assets/55377797-85d1-4011-8460-d9c3448ceaf8) <br> <br>
-(Table 1: - Table showing the constraints, solutions, and a creative perspective about it)
+(Table 1: - Table showing the constraints, solutions, and a creative perspective about it) <br> <br>
+Here is a storyboard about how RemoteVibe.inc envisions the app: - <br> <br>
+![Daily Energy Transfer Storyboard in Cream Light Blue Clean Style (4)](https://github.com/user-attachments/assets/6ff7cff3-db10-42c6-b53a-619068cad1ab) <br> <br>
+(Figure 2: - Storyboard for better understanding about the constraints of the app and what RemoteVibe.inc wants to develop)
 
 #### 3. Idea Generation and Systematic Approach: 
 #### 4. Prototyping: 
