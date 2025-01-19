@@ -1,7 +1,7 @@
 # Subject Name: Critical and Creative Thinking
 ## Beyond the Blueprint: Crafting Innovative Prototypes with  Critical and Creative Thinking
 ## Task 1: Designing Digital Nomad Community App Prototype
-## Name of the Project: Faint Detection System
+## Name of the Project: Nomad Nest
 
 Student ID: 1000130 <br>
 Karan Amol Rajankar </br>
@@ -36,7 +36,7 @@ To develop an application that provides digital nomads password management, effi
 4. Revolut (App for Finance): [https://www.revolut.com/](https://www.revolut.com/)
 
 ### Approach
-Here is how the following steps guided me to the formation of (App name): - </br>
+Here is how the following steps guided me to the formation of Nomad Nest: - </br>
 #### 1. Brainstorming:
 • Gamified Language Learning Integration: Consider adding gamification elements to the language learning feature, such as daily challenges, streaks, and rewards. This could improve motivation and engagement for users who struggle with consistency in learning a new language. <br>
 • Offline Functionality for Key Features: Enable offline access for critical app features like language practice modules or productivity tools. This would help digital nomads stay productive even in areas with unreliable internet connections. <br>
