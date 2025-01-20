@@ -22,6 +22,10 @@ In the rapidly growing community of digital nomads, several challenges hinder pr
 4. Poor Password Management: As digital nomads frequently use multiple platforms and services, password management becomes a major concern. A LastPass report indicates that 59% of remote workers use the same password across multiple sites, and 50% struggle to securely store and manage passwords. This vulnerability increases the risk of data breaches and cyberattacks, which threaten the security of sensitive work and personal information. </br> <br>
 5. Lack of Focus and Unproductive Time: A study by RescueTime shows that 80% of digital nomads face difficulty staying focused, with distractions from social media, poor time management, or unstructured routines contributing to a significant amount of wasted time. On average, they report up to 3 hours of non-productive time each day due to these factors, leading to lower productivity and burnout. </br> <br>
 
+I have also published a survey form to understand the problems that digital nomads are facing today. Here is the forms link and the responses link: - <br>
+Forms Link: - [https://docs.google.com/forms/d/e/1FAIpQLSdq_ZX4PSaEDVK6cUNkSVS3iENbdqR7HSkB9qakkTw2YGda4Q/viewform?usp=header](https://docs.google.com/forms/d/e/1FAIpQLSdq_ZX4PSaEDVK6cUNkSVS3iENbdqR7HSkB9qakkTw2YGda4Q/viewform?usp=header) <br> <br>
+Responses Link: - [https://docs.google.com/spreadsheets/d/1m1sKblGtfour1pc2KmqzQUr6SbCVwVpVPnsIjixsN4w/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1m1sKblGtfour1pc2KmqzQUr6SbCVwVpVPnsIjixsN4w/edit?usp=sharing) <br> <br>
+
 Looking at the statistics, I feel that these constraints must be taken into deep consideration and addressed so that the digital nomads can have a smooth work experience wherever they travel.
 
 ### Goal
@@ -57,10 +61,9 @@ Here is a storyboard about how RemoteVibe.inc envisions the app: - <br> <br>
 #### 3. Idea Generation and Systematic Approach: 
 #### 4. Prototyping: 
 #### 5. Testing:
-#### 5. Application Deployment:
-• The entire code is uploaded to Github for the users to understand the code and gain insights from it. <br>
-• Along with this, a detailed ReadMe file includes screenshots of the output window and the frame window. <br>
-• Finally, a presentation that gives a brief idea about my project.
+To test the prototype, I shared this project application with 20 digital nomads in Bangalore. After testing it, I asked them to fill a feedback survey to understand whether any improvements are required and if any, what are the requirements. Here is the forms link and the responses link: - <br>
+Forms Link: - [https://docs.google.com/forms/d/e/1FAIpQLSdd4rLatZ_QieDXdEcwqi1MX3F9YKTyTgJ0Wn3_-oWeUodIhA/viewform?usp=header](https://docs.google.com/forms/d/e/1FAIpQLSdd4rLatZ_QieDXdEcwqi1MX3F9YKTyTgJ0Wn3_-oWeUodIhA/viewform?usp=header) <br> <br>
+Responses Link: - [https://docs.google.com/spreadsheets/d/1NSga4VueYhF4SVDmBpYcchjdDOUdk4VC2Wvop4fbWrc/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1NSga4VueYhF4SVDmBpYcchjdDOUdk4VC2Wvop4fbWrc/edit?usp=sharing)
 
 ### Detailed Understanding about the Features
 #### Data Selection
