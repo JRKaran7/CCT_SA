@@ -37,7 +37,9 @@ Looking at the statistics, I feel that these constraints must be taken into deep
 ### Goal
 To empower digital nomads to work more efficiently and securely while maintaining focus and continuous personal development.
 ### Objective
-To develop an application that provides digital nomads password management, efficient coworking sessions, information about the nearest internet cafes, and many more features that enhance their travel and work experience.
+• Enhance the productivity and connectivity of digital nomads by providing tailored features like virtual coworking sessions, location-based coworking space finders, and networking event calendars. <br>
+• Address common challenges faced by digital nomads, such as unreliable internet, lack of community, and maintaining a work-life balance, through practical solutions and user-friendly tools. <br>
+• Empower users with personalized recommendations and real-time insights to optimize their travel, work, and wellness experiences, ensuring seamless navigation and efficient resource management across different locations.
 
 ### Existing projects
 1. AirBNB (Travel App): [https://www.airbnb.co.in/](https://www.airbnb.co.in/) <br>
@@ -59,14 +61,30 @@ Here is a SCAMPER board to understand how the app idea is distributed based on 7
 
 #### 2. Developing the Mindset:
 Keeping the foot in the user’s shoe creates a mindset that digital nomads follow. As the project leader for this problem, I must think and find innovative solutions for them so that they find the idea creative and usable on a daily basis. Here is a table that includes the constraint, designs and features that can overcome them, and a creative perspective on it: - <br> <br>
-![image](https://github.com/user-attachments/assets/55377797-85d1-4011-8460-d9c3448ceaf8) <br> <br>
+![image](https://github.com/user-attachments/assets/2aad43b8-42db-4afe-913a-dff19c180b56) <br> <br>
 (Table 1: - Table showing the constraints, solutions, and a creative perspective about it) <br> <br>
 Here is a storyboard about how RemoteVibe.inc envisions the app: - <br> <br>
 ![Daily Energy Transfer Storyboard in Cream Light Blue Clean Style](https://github.com/user-attachments/assets/75562d6c-c4d5-4820-8580-b0876cb87d7e) <br> <br>
 (Figure 2: - Storyboard for better understanding about the constraints of the app and what RemoteVibe.inc wants to develop)
 
 #### 3. Idea Generation and Systematic Approach: 
-#### 4. Prototyping: 
+#### 4. Prototyping:
+• Objective: The goal of the prototyping stage is to create an interactive model of the Digital Nomad Community App that showcases core functionalities. The prototype will demonstrate how features like task planning, health and wellness tools, internet speed checks, virtual coworking sessions, and social interactions will work. This stage focuses on usability, clarity, and addressing the critical needs of digital nomads. <br> <br>
+• Tool Selection: The app prototype was developed using FlutterFlow. Integration with Google Maps and city guide features for location-based services was implemented within the prototype. <br> <br>
+• Wireframe Design: <br>
+  1. Internet Check: Displays a speed test button and feedback for streaming, gaming, and file uploads. <br>
+  2. Task Planner: Includes task creation and prioritization tools for better work-life management. <br>
+  3. Health and Wellness: Offers quick access to wellness resources and self-care tips. <br>
+  4. Virtual Sessions: Provides tools for scheduling and joining coworking or networking events. <br>
+  5. Social Interaction: A section for connecting with other digital nomads and forming communities. <br> <br>
+
+• Interactive Elements: <br>
+i. Added buttons, sliders, and input fields to simulate the user experience. For instance: <br>
+    - A clickable "Check Speed" button in the InternetCheck page. <br>
+    - Task creation forms and priority settings in the TaskPlanner. <br>
+    - Calendar integration for events in VirtualSessions. <br>
+ii. Integrated Google Maps for locating coworking spaces or travel-friendly cafés.
+
 #### 5. Testing:
 To test the prototype, I shared this project application with 20 digital nomads in Bangalore. After testing it, I asked them to fill a feedback survey to understand whether any improvements are required and if any, what are the requirements. Here is the forms link and the responses link: - <br>
 Forms Link: - [https://docs.google.com/forms/d/e/1FAIpQLSdd4rLatZ_QieDXdEcwqi1MX3F9YKTyTgJ0Wn3_-oWeUodIhA/viewform?usp=header](https://docs.google.com/forms/d/e/1FAIpQLSdd4rLatZ_QieDXdEcwqi1MX3F9YKTyTgJ0Wn3_-oWeUodIhA/viewform?usp=header) <br> <br>
