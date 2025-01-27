@@ -11,8 +11,10 @@ Email ID: karan.rajankar07@gmail.com </br>
 ### Introduction
 “Own only what you can always carry with you: known languages, known countries, known people. Let your memory be your travel bag." — Alexandr Solzhenitsyn </br> <br>
 This fascinating quote by Alexandr Solzhenitsyn represents the mindset of a digital nomad. Digital nomads are people who travel freely while working remotely using technology and the internet. While travelling, digital nomads tend to understand the culture and the environment, giving them opportunities to understand the world’s diversity and handle software projects at the same time. <br> <br>
-As a developer of RemoteVibe.inc, I researched the different constraints that digital nomads face. In fact, I had an interview session with one such person who has lived in 4 countries in his 1.5 years of being a digital nomad. During the interview, he mentioned that learning about the famous places in real time is an experience, but doing so and working becomes a problem because not all places offer smooth internet connectivity and efficient technologies. Many places do not have the right requirements that digital nomads need for their work. So, it is a necessity, as an organisation, to come up with a product that can overcome these constraints and fulfill their needs. <br> <br>
-This project will provide a solution in the form of a prototype that fulfils every digital nomad's requirements and makes their work-travel time highly efficient.
+
+As a developer of RemoteVibe.inc, I researched the different constraints that digital nomads face. In fact, I had an interview session with one such person who has lived in 4 countries in his 1.5 years of being a digital nomad. During the interview, he mentioned that learning about the famous places in real time is an experience, but doing so and working becomes a problem because not all places offer smooth internet connectivity and efficient technologies. Many places do not have the right requirements that digital nomads need for their work. So, it is a necessity, as an organization, to come up with a product that can overcome these constraints and fulfill their needs. <br> <br>
+
+This project will provide a solution in the form of a prototype that fulfills every digital nomad's requirements and makes their work-travel time highly efficient.
 
 ### Problem Definition
 In the rapidly growing community of digital nomads, several challenges hinder productivity, learning, and overall well-being, leading to reduced effectiveness and poor quality of work. These challenges include: </br> <br>
@@ -21,6 +23,10 @@ In the rapidly growing community of digital nomads, several challenges hinder pr
 3. Unreliable Internet Connections: A global survey by Nomad List reveals that 60% of digital nomads struggle with bad internet access, with unreliable Wi-Fi being a major barrier. This can lead to disrupted work sessions, delayed communication, and hindered collaboration, causing significant stress and work delays. Approximately 45% report that internet connectivity issues directly impact their ability to meet deadlines. </br> <br>
 4. Poor Password Management: As digital nomads frequently use multiple platforms and services, password management becomes a major concern. A LastPass report indicates that 59% of remote workers use the same password across multiple sites, and 50% struggle to securely store and manage passwords. This vulnerability increases the risk of data breaches and cyberattacks, which threaten the security of sensitive work and personal information. </br> <br>
 5. Lack of Focus and Unproductive Time: A study by RescueTime shows that 80% of digital nomads face difficulty staying focused, with distractions from social media, poor time management, or unstructured routines contributing to a significant amount of wasted time. On average, they report up to 3 hours of non-productive time each day due to these factors, leading to lower productivity and burnout. </br> <br>
+6. Health and Wellness: Digital nomads struggle to maintain their physical and mental well-being due to irregular routines and a lack of consistent access to wellness resources. A study by Buffer reveals that 55% of remote workers face higher stress levels, and 48% report difficulties staying physically active while traveling. Additionally, a report by Nomad Health shows that 40% of digital nomads experience burnout within their first year, often due to poor work-life balance and inadequate self-care practices. <br> <br>
+7. Task Planner: Task management is a significant challenge for digital nomads, with 72% reporting difficulties in organizing their work-life balance, as per a study by RescueTime. Frequent travel, unstructured schedules, and distractions lead to 3.5 hours of wasted time daily, on average, reducing overall productivity. Without proper planning tools, many digital nomads struggle to set priorities and meet deadlines, negatively impacting their efficiency and work quality. <br> <br>
+8. Lack of Community Connection: A report by Nomad List highlights that 68% of digital nomads feel isolated while traveling, with limited opportunities to form meaningful connections. The transient nature of their lifestyle often leads to a lack of stable social networks, making it difficult to build lasting relationships or collaborate effectively. This sense of isolation can contribute to loneliness, decreased motivation, and a reduced sense of belonging in the community. <br> <br>
+9. Slow Internet Speed: - Reliable internet access remains a persistent issue for digital nomads, with 60% struggling to find consistent connectivity, according to a global survey by Nomad List. Poor internet speeds often disrupt video calls, delay project uploads, and cause miscommunication, impacting deadlines and productivity. Research shows that 45% of nomads have missed critical deadlines due to unreliable internet, making access to speed-testing tools and reliable networks essential for their workflow. <br> <br>
 
 I have also published a survey form to understand the problems that digital nomads are facing today. Here is the forms link and the responses link: - <br>
 Forms Link: - [https://docs.google.com/forms/d/e/1FAIpQLSdq_ZX4PSaEDVK6cUNkSVS3iENbdqR7HSkB9qakkTw2YGda4Q/viewform?usp=header](https://docs.google.com/forms/d/e/1FAIpQLSdq_ZX4PSaEDVK6cUNkSVS3iENbdqR7HSkB9qakkTw2YGda4Q/viewform?usp=header) <br> <br>
@@ -38,6 +44,7 @@ To develop an application that provides digital nomads password management, effi
 2. Notion (Productivity App): [https://www.notion.com/](https://www.notion.com/) <br>
 3. Nomad eSIM (Digital Connectivity App): [https://www.getnomad.app/](https://www.getnomad.app/) <br>
 4. Revolut (App for Finance): [https://www.revolut.com/](https://www.revolut.com/)
+5. Meetup (App for Social Interaction): [https://www.meetup.com/topics/digital-nomads/](https://www.meetup.com/topics/digital-nomads/)
 
 ### Approach
 Here is how the following steps guided me to the formation of Nomad Nest: - </br>
@@ -55,7 +62,7 @@ Keeping the foot in the user’s shoe creates a mindset that digital nomads foll
 ![image](https://github.com/user-attachments/assets/55377797-85d1-4011-8460-d9c3448ceaf8) <br> <br>
 (Table 1: - Table showing the constraints, solutions, and a creative perspective about it) <br> <br>
 Here is a storyboard about how RemoteVibe.inc envisions the app: - <br> <br>
-![Daily Energy Transfer Storyboard in Cream Light Blue Clean Style (4)](https://github.com/user-attachments/assets/6ff7cff3-db10-42c6-b53a-619068cad1ab) <br> <br>
+![Daily Energy Transfer Storyboard in Cream Light Blue Clean Style](https://github.com/user-attachments/assets/75562d6c-c4d5-4820-8580-b0876cb87d7e) <br> <br>
 (Figure 2: - Storyboard for better understanding about the constraints of the app and what RemoteVibe.inc wants to develop)
 
 #### 3. Idea Generation and Systematic Approach: 
