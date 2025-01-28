@@ -169,10 +169,10 @@ https://www.canva.com/design/DAGdgJQjnaE/CyJLdIxaP6Di66iaqrwqow/watch?utm_conten
 5. Application Video: [https://invideo.io/](https://invideo.io/)
 
 ### Bibliography
-• A quote from The Gulag Archipelago 1918–1956. (n.d.). https://www.goodreads.com/quotes/517715-own-only-what-you-can-always-carry-with-you-know
-• Buffer | State of Remote Work 2023. (n.d.). Buffer: All-you-need Social Media Toolkit for Small Businesses. https://buffer.com/state-of-remote-work/2023?utm_source=chatgpt.com
-• Digital Security Dashboard - LastPass. (n.d.). https://www.lastpass.com/features/security-dashboard
-• Full report: Global Digital Nomad - Global Intelligence Unit. (2024a, September 27). Global Intelligence Unit. https://www.globalcitizensolutions.com/intelligence-unit/reports/global-digital-nomad-report/global-digital-nomad-full-report/?utm_source=chatgpt.com
-• Nomads.com. (n.d.). 2025 state of Digital Nomads. https://nomadlist.com/digital-nomad-statistics
-• RescueTime, I. (2024, July 17). The productivity report. RescueTime. https://help.rescuetime.com/article/61-the-productivity-report?utm_source=chatgpt.com
-• Topic: Digital nomads. (2024, March 1). Statista. https://www.statista.com/topics/9259/digital-nomads/?utm_source=chatgpt.com
+• A quote from The Gulag Archipelago 1918–1956. (n.d.). https://www.goodreads.com/quotes/517715-own-only-what-you-can-always-carry-with-you-know <br>
+• Buffer | State of Remote Work 2023. (n.d.). Buffer: All-you-need Social Media Toolkit for Small Businesses. https://buffer.com/state-of-remote-work/2023?utm_source=chatgpt.com <br>
+• Digital Security Dashboard - LastPass. (n.d.). https://www.lastpass.com/features/security-dashboard <br>
+• Full report: Global Digital Nomad - Global Intelligence Unit. (2024a, September 27). Global Intelligence Unit. https://www.globalcitizensolutions.com/intelligence-unit/reports/global-digital-nomad-report/global-digital-nomad-full-report/?utm_source=chatgpt.com <br>
+• Nomads.com. (n.d.). 2025 state of Digital Nomads. https://nomadlist.com/digital-nomad-statistics <br>
+• RescueTime, I. (2024, July 17). The productivity report. RescueTime. https://help.rescuetime.com/article/61-the-productivity-report?utm_source=chatgpt.com <br>
+• Topic: Digital nomads. (2024, March 1). Statista. https://www.statista.com/topics/9259/digital-nomads/?utm_source=chatgpt.com <br>
