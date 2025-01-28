@@ -161,6 +161,9 @@ This project also deepened my research skills as I explored the dynamic lifestyl
 ### Application Video Link
 https://www.canva.com/design/DAGdgJQjnaE/CyJLdIxaP6Di66iaqrwqow/watch?utm_content=DAGdgJQjnaE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5d8fa4c098
 
+### Prototype Clickable Link
+[https://nomadnest.flutterflow.app/](https://nomadnest.flutterflow.app/)
+
 ### Resources
 1. SCAMPER Board: [https://www.canva.com/](https://www.canva.com/) <br>
 2. Storyboard: [https://www.canva.com/](https://www.canva.com/) <br>
