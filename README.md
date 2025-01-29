@@ -105,6 +105,10 @@ i. Added buttons, sliders, and input fields to simulate the user experience. For
     - Calendar integration for events in VirtualSessions. <br>
 ii. Integrated Google Maps for locating coworking spaces or travel-friendly cafés.
 
+The picture below gives a basic wireframe of the app, allowing users to understand the app flow. <br> <br>
+![TV   Film Storyboard in Black and White Red Dark   Serious Style](https://github.com/user-attachments/assets/3e6b2e90-7658-4dd7-b62b-ad74fcdf04d1) <br> <br>
+(Figure 3: - Wireframe to show app flow)
+
 #### 5. Testing:
 To test the prototype, I shared this project application with 20 digital nomads in Bangalore. After testing it, I asked them to fill a feedback survey to understand whether any improvements are required and if any, what are the requirements. Here is the forms link and the responses link: - <br>
 Forms Link: - [https://docs.google.com/forms/d/e/1FAIpQLSdd4rLatZ_QieDXdEcwqi1MX3F9YKTyTgJ0Wn3_-oWeUodIhA/viewform?usp=header](https://docs.google.com/forms/d/e/1FAIpQLSdd4rLatZ_QieDXdEcwqi1MX3F9YKTyTgJ0Wn3_-oWeUodIhA/viewform?usp=header) <br> <br>
@@ -113,22 +117,61 @@ Responses Link: - [https://docs.google.com/spreadsheets/d/1NSga4VueYhF4SVDmBpYcc
 ### Detailed Understanding about the Features
 #### Language Learning Efficiency
 The app enhances language learning by providing a structured, flexible approach with chapters, daily flashcards, and reminders to keep users on track. It focuses on four key areas—vocabulary, listening, speaking, and writing—ensuring a comprehensive learning experience. With personalized lessons and daily progress tracking, the app adapts to users’ proficiency levels, offering interactive exercises to reinforce real-world communication skills. This tailored approach helps digital nomads stay motivated and improve their language fluency, despite their busy, travel-heavy lifestyles.
+<br> <br> ![image](https://github.com/user-attachments/assets/3a1a84f6-f5fb-40c1-820b-5581a69a979f) <br>
+![image](https://github.com/user-attachments/assets/ba25b551-8a52-40af-850e-3bebe5d22593) <br>
+(Figure 12: - Language Learning Efficiency App Screenshot)
+
 #### Co-working Efficiency
 The app improves co-working efficiency by offering virtual sessions tailored to various work needs like productivity, creativity, and brainstorming. Users can register for sessions based on their specific requirements, ensuring a structured and focused work environment. Each session is time-fixed, promoting effective collaboration and concentration. Additionally, users can select their job profile during registration, allowing the app to recommend the most relevant sessions for their tasks, making co-working more personalized and productive for digital nomads, no matter where they are.
+<br> <br> ![image](https://github.com/user-attachments/assets/ce3954d5-eb31-4028-8c77-7fba65823681)
+ <br> ![image](https://github.com/user-attachments/assets/c521ccd7-a7e9-4942-999f-d4314e3f5987) <br>
+ ![image](https://github.com/user-attachments/assets/e3de4459-96db-4c9f-8fc2-561cadc3442a) <br>
+ ![image](https://github.com/user-attachments/assets/6b4bf758-7bc2-4114-9d3f-1eebaac7a84e) <br>
+(Figure 12: - Virtual Sessions App Screenshot)
+
 #### Finding Reliable Workspaces and Connectivity
 The app tackles unreliable internet conditions by offering a map that helps digital nomads find nearby cafés and co-working spaces with stable Wi-Fi. Integrated with real-time user reviews and ratings, this feature provides insights into internet quality and workspace conditions, ensuring informed choices. Additionally, a comprehensive guide across cities helps nomads plan ahead, ensuring access to reliable internet wherever they are. This enables users to travel confidently and maintain productivity, without worrying about connectivity issues impacting their work.
+<br> <br> ![image](https://github.com/user-attachments/assets/50c4357e-fb3d-4536-b520-a03b1ed6b732)
+ <br>
+(Figure 12: - Cafe and Workspace Finder App Screenshot)
+
 #### Password Vault
 The app addresses poor password management by offering a secure vault that allows users to store and manage passwords for specific websites. This vault uses encryption to ensure the safety of sensitive data, allowing digital nomads to easily retrieve login information when needed. Users can also organize passwords based on categories, such as work-related sites or personal accounts, making it easy to stay secure and avoid password fatigue while traveling and using multiple online services.
+<br> <br> ![image](https://github.com/user-attachments/assets/5b29b751-0d83-4634-8000-24e77179f811)
+ <br>
+(Figure 12: - Password Vault App Screenshot)
+
 #### Focus Sessions
 To help digital nomads stay productive, the app includes a focus timer that allows users to set specific work intervals for uninterrupted work. These sessions, inspired by the Pomodoro technique, encourage users to work in focused bursts, followed by short breaks. Users can customize the duration of focus and break periods, ensuring the app adapts to individual work habits. This feature helps users maintain concentration and avoid distractions, improving productivity and preventing burnout throughout the day.
+<br> <br> ![image](https://github.com/user-attachments/assets/a7ee2687-687a-492a-a977-55606e902763) <br>
+(Figure 12: - Focus Sessions App Screenshot)
+
 #### Health and Wellness
 The app offers a comprehensive health and wellness section that includes tips for physical and mental well-being, such as breathing exercises and mindfulness techniques. It also features a progress bar for tracking daily water intake, steps taken, and calories burned, helping users stay aware of their health goals. Regular prompts remind users to take breaks and stretch, ensuring that they maintain a balanced and healthy lifestyle while juggling work and travel. These features support both mental clarity and physical wellness.
+<br> <br> ![image](https://github.com/user-attachments/assets/660011a7-6817-4b03-b75b-128b31ff416d)
+ <br>![image](https://github.com/user-attachments/assets/aa183fa6-669d-4200-97d9-51e0ea4eb844)
+ <br>
+(Figure 12: - Health and Wellness App Screenshot)
+
 #### Task Planner
 The app’s task planner helps users stay organized by categorizing tasks into work, travel, and personal segments. Users can easily add new tasks, set deadlines, and mark tasks as completed. The planner provides a clear overview of daily, weekly, and monthly tasks, ensuring that nomads stay on top of their responsibilities despite frequent travel. By segregating tasks into different categories, the app allows users to manage work commitments, travel plans, and personal errands efficiently.
+<br> <br> ![image](https://github.com/user-attachments/assets/9ab2fb3a-c78d-4ae8-b49b-58046701abcd)
+ <br>![image](https://github.com/user-attachments/assets/b4e8cbfa-077d-47e8-ad92-f1b321f91ffa)
+ <br>
+(Figure 12: - Task Planner App Screenshot)
+
 #### Social Interaction
 The app promotes social interaction among digital nomads by facilitating local meetups and community groups. Users can discover nearby nomads and send messages to connect with them for collaborative work, socializing, or sharing experiences. The community feature helps combat the isolation that many digital nomads face while traveling and fosters a sense of belonging. Additionally, users can join groups based on shared interests or work areas, creating opportunities for networking and personal connections while on the move.
+<br> <br>![image](https://github.com/user-attachments/assets/98ebf55d-2188-434b-9fb1-4c9ddfb85231) <br>
+![image](https://github.com/user-attachments/assets/fabc8753-fb09-4693-a772-260095a2b576)
+ <br>
+(Figure 12: - Social Interaction App Screenshot)
+
 #### Internet Speed Check
 To ensure a seamless work experience, the app includes an internet speed checker that evaluates both download and upload speeds. This tool provides real-time insights into whether the connection is suitable for tasks like video calls, streaming, uploading files, or gaming. The app gives users a clear assessment of the connection quality, helping them determine if the current network will meet their productivity needs. It helps digital nomads avoid connectivity issues by suggesting better places to work or offering tips on improving internet speed.
+<br> <br>
+![image](https://github.com/user-attachments/assets/7faadcbc-1c1f-4267-88d1-9ae54ffedd1e) <br>
+(Figure 12: - Internet Speed Check App Screenshot)
 
 ### Monitoring and Maintenance
 Monitoring and maintenance of the unified ecosystem involve regular updates to ensure compatibility with evolving technologies, user feedback analysis to enhance functionality, and proactive troubleshooting to address technical issues. Continuous monitoring of server performance, data security, and feature integration is essential to provide a seamless user experience. Additionally, periodic testing and updates to address bugs, improve usability, and integrate new features ensure the platform remains reliable and meets the dynamic needs of digital nomads.
@@ -163,6 +206,9 @@ https://www.canva.com/design/DAGdgJQjnaE/CyJLdIxaP6Di66iaqrwqow/watch?utm_conten
 
 ### Prototype Clickable Link
 [https://nomadnest.flutterflow.app/](https://nomadnest.flutterflow.app/)
+
+### Interactive Storyboard Link
+https://www.canva.com/design/DAGdilsoE_U/v04M8VYGxYGEgn-rhk9Fhg/view?utm_content=DAGdilsoE_U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5ec75d3061
 
 ### Resources
 1. SCAMPER Board: [https://www.canva.com/](https://www.canva.com/) <br>
