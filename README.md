@@ -110,7 +110,7 @@ Reason for selecting and rejecting each feature is in the docs: - [https://docs.
 ](https://docs.google.com/document/d/17n0sKWSo3r8IKbYkJyjpI9fwoUxnci4fyq9bhs9BxjI/edit?usp=sharing) <br> <br>
 
 Here is a cognitive walkthrough to understand the different feature combinations and their effectiveness: <br> <br>
-![ESPAÑOL](https://github.com/user-attachments/assets/f7597bfa-e339-43c4-b1de-60c740e3dac1) <br> <br>
+![ESPAÑOL (1)](https://github.com/user-attachments/assets/6a09da18-54f1-4de0-bc7e-5d9a37998f5e) <br> <br>
 (Figure 4: Cognitive Walkthrough)
 
 #### 4. Prototyping:
