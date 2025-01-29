@@ -148,7 +148,7 @@ Streamlined Layout for Enhanced Usability: Displaying all features one below the
 Here is a comparison of the app's homepage layout before and after refinement: <br>
 ![image](https://github.com/user-attachments/assets/f3c93ddb-7ef9-4bfd-9b64-89d8bfbde933) <br>
 (Figure 6: Before) <br> <br>
-![image](https://github.com/user-attachments/assets/5b8fc387-4578-4f3f-bd91-d0f81bdbbbc2) <br>
+![image](https://github.com/user-attachments/assets/ae2f9016-d9e6-48d0-985d-789756080a19) <br>
 (Figure 7: After)
 
 ### Detailed Understanding about the Features
